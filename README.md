@@ -6,8 +6,8 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Status](https://img.shields.io/badge/Status-Stable-success)
 
- <h3> Aplicación científica y educativa desarrollada en Python, que permite visualizar, analizar y comparar trayectorias orbitales de cometas, asteroides u otros objetos astronómicos mediante sus elementos keplerianos reales.<h3>
- <h3> El software utiliza ecuaciones de mecánica celeste de dos cuerpos (Sol–objeto) y presenta visualizaciones interactivas en 2D y 3D a través de una interfaz moderna basada en CustomTkinter. <h3>
+ <h3> Aplicación desarrollada en Python, que permite visualizar, analizar y comparar trayectorias orbitales de cometas, asteroides u otros objetos astronómicos mediante sus elementos keplerianos reales.<h3>
+ <h3> El software utiliza ecuaciones de mecánica celeste de dos cuerpos (Sol–objeto) y presenta visualizaciones interactivas en 2D y 3D a través de una interfaz basada en CustomTkinter. <h3>
 
 ![Descargar Simulador Orbital](https://img.shields.io/badge/⬇️_Link_De_Descarga_del_Simulador-.exe-blue?style=for-the-badge)
 
@@ -21,7 +21,7 @@ https://github.com/PatricioHenrry/Simulador-Orbital-de-Cuerpos-Celestes/releases
 -  **Simulación Kepleriana** de órbitas elípticas e hiperbólicas.  
 -  **Comparación científica**: Halley (1P) vs ʻOumuamua (1I).  
 -  **Visualizaciones 2D y 3D heliocéntricas** (proyección eclíptica).  
--  **Interfaz moderna** con CustomTkinter (modo oscuro, botones dinámicos).  
+-  **Interfaz con CustomTkinter.**  
 -  **Generación de ejecutable portable (.exe)** con PyInstaller.  
 -  **Exportación de trayectorias** a CSV para análisis externo.  
 
@@ -30,7 +30,7 @@ https://github.com/PatricioHenrry/Simulador-Orbital-de-Cuerpos-Celestes/releases
 
 -  Python 3.8+
 
--  CustomTkinter - Interfaz gráfica moderna
+-  CustomTkinter - Interfaz gráfica 
 
 -  NumPy - Cálculos matemáticos y manipulación de arrays
 
